@@ -138,7 +138,5 @@ markup:
 services:
   disqus:
     shortname: disqus_HrZnIvV1VM
-
-services:
   googleAnalytics:
     ID: G-7BW79B16LM
